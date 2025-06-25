@@ -44,6 +44,9 @@ I enjoy tackling complex problems, making quick effective decisions, and collabo
   <img src="https://img.shields.io/badge/WPF-512BD4?logo=windows&logoColor=white" alt="WPF"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Robot%20Framework-00C0B5?logo=robotframework&logoColor=white" alt="Robot Framework"/>
+  <img src="https://img.shields.io/badge/Prolog-0C4A9D?logo=prolog&logoColor=white" alt="Prolog"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ## 🚀 Projects
