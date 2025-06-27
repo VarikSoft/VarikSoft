@@ -47,6 +47,9 @@ I enjoy tackling complex problems, making quick effective decisions, and collabo
   <img src="https://img.shields.io/badge/Robot%20Framework-00C0B5?logo=robotframework&logoColor=white" alt="Robot Framework"/>
   <img src="https://img.shields.io/badge/Prolog-0C4A9D?logo=prolog&logoColor=white" alt="Prolog"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=white" alt="Premiere Pro"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
 </p>
 
 ## 🚀 Projects
