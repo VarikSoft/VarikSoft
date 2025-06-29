@@ -58,3 +58,4 @@ I enjoy tackling complex problems, making quick effective decisions, and collabo
 - **Coding-Courses** – Educational platform built with JavaScript.  
 - **DLL-Injector** – C# application for safe DLL injection.
 - **Voicy-Bot** - Python based Discord bot for creating private voice channels.
+- **Polyglot-Bot** - Python based Discord bot for direct translating of user's messages at text channels.
