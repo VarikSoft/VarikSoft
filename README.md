@@ -59,3 +59,4 @@ I enjoy tackling complex problems, making quick effective decisions, and collabo
 - **DLL-Injector** – C# application for safe DLL injection.
 - **Voicy-Bot** - Python based Discord bot for creating private voice channels.
 - **Polyglot-Bot** - Python based Discord bot for direct translating of user's messages at text channels.
+- **SM-Bot** - Python based Discord bot that empowers server administrators to manage server channels with flexible conditions.
