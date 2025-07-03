@@ -54,9 +54,9 @@ I enjoy tackling complex problems, making quick effective decisions, and collabo
 
 ## 🚀 Projects
 
-- **Ukraine-Refugees-Map** – Interactive map tracking refugee movements (HTML, CSS, JS).  
-- **Coding-Courses** – Educational platform built with JavaScript.  
-- **DLL-Injector** – C# application for safe DLL injection.
-- **Voicy-Bot** - Python based Discord bot for creating private voice channels.
-- **Polyglot-Bot** - Python based Discord bot for direct translating of user's messages at text channels.
-- **SM-Bot** - Python based Discord bot that empowers server administrators to manage server channels with flexible conditions.
+- **Ukraine-Refugees-Map** – Interactive map tracking refugee movements (HTML, CSS, JS)
+- **Coding-Courses** – Educational platform built with JavaScript 
+- **DLL-Injector** – C# application for safe DLL injection
+- **Voicy-Bot** - Python based Discord bot for creating private voice channels
+- **Polyglot-Bot** - Python based Discord bot for direct translating of user's messages at text channels
+- **SM-Bot** - Python based Discord bot that empowers server administrators to manage server channels with flexible conditions
