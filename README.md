@@ -3,14 +3,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
-  <a href="https://discordapp.com/users/450712645289508865">
-    <img src="https://img.shields.io/badge/Discord-@VarikSoft-%237289DA?logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@variksoft">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/VarikSoft?tab=followers">
     <img src="https://img.shields.io/github/followers/VarikSoft?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
