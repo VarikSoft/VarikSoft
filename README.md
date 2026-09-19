@@ -43,11 +43,3 @@ I value clean code, maintainability, clear communication, and pragmatic engineer
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>
 </p>
-
-## 🚀 Projects
-
-- **Coding-Courses** – Educational platform built with JavaScript
-- **DLL-Injector** – C# application for safe DLL injection
-- **Voicy-Bot** - Python based Discord bot for creating private voice channels
-- **Polyglot-Bot** - Python based Discord bot for direct translating of user's messages at text channels
-- **SM-Bot** - Python based Discord bot that empowers server administrators to manage server channels with flexible conditions
