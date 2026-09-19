@@ -4,13 +4,13 @@ dev@github:~$ <b>whoami</b>
 <b>.NET Developer</b>
 <br/><br/>
 
-dev@github:~$ <b>describe</b>
+dev@github:~$ <b>cat about.txt</b>
 <br/><br/>
 Building backend applications, APIs and cloud solutions.<br/>
 C# / .NET / ASP.NET Core / Azure, with additional experience in Python.
 <br/><br/>
 
-dev@github:~$ <b>skills --list</b>
+dev@github:~$ <b>stack --list</b>
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET"/>
